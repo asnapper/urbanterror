@@ -1,2 +1,2 @@
 # urbanterror
-Urban Terror Dedicated Server Docker
+Dockerized Urban Terror Dedicated Server
